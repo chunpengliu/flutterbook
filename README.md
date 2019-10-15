@@ -38,10 +38,12 @@ A container that gradually changes its values over a period of time.
 ```
 
 >### 视频介绍
+*注：如不能显示，请查看在线地址
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yI-8QHpGIP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
->### 示例  
+>### 示例
+*注：如不能显示，请查看在线地址  
 <iframe src="./widgets/animatedcontainer/web/index.html" width="280px" height="500px" frameborder="0" scrolling="no"></iframe>
 
 >### 主要代码
@@ -76,6 +78,7 @@ class _HomeState extends State<MyHomePage> {
 ```
 
 >点击这里查看 [源码](./web/main.dart)。
+*注：如不能显示，请查看在线地址  
 
 ### 其他
 由于Flutter组件数量很多且一直处于变动中，作者难免会有错误或疏漏，请联系刘春鹏（chunpengliu）更改，非常感谢。欢迎引用或者转载，无需申明，给个star即可。

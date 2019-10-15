@@ -5,6 +5,7 @@ Flutter是谷歌的移动UI框架，可以快速在iOS和Android以及WEB上构�
 
 ## 什么是FlutterBook？
 这里是Flutter所有Widget的中英文介绍以及使用教程，通过Flutter web实现Flutter的动态交互可视化，并提供了源码供参考。
+线上地址：[http://ugd.oa.com/flutter-doc/_book/](http://ugd.oa.com/flutter-doc/_book/)
 
 
 ## 示例
@@ -77,4 +78,4 @@ class _HomeState extends State<MyHomePage> {
 >点击这里查看 [源码](./web/main.dart)。
 
 ### 其他
-由于Flutter组件数量很多且一直处于变动中，作者难免会有错误或疏漏，请联系刘春鹏（chunpengliu）更改，非常感谢。欢迎引用或者转载。
+由于Flutter组件数量很多且一直处于变动中，作者难免会有错误或疏漏，请联系刘春鹏（chunpengliu）更改，非常感谢。欢迎引用或者转载，无需申明，给个star即可。

@@ -1,11 +1,12 @@
 # 介绍
 
-## 什么是Flutter？
-Flutter是谷歌的移动UI框架，可以快速在iOS和Android以及WEB上构建高质量的用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。
-
 ## 什么是FlutterBook？
 这里是Flutter所有Widget的中英文介绍以及使用教程，通过Flutter web实现Flutter的动态交互可视化，并提供了源码供参考。
 线上地址：[http://ugd.oa.com/flutter-doc/_book/](http://ugd.oa.com/flutter-doc/_book/)
+
+## 什么是Flutter？
+Flutter是谷歌的移动UI框架，可以快速在iOS和Android以及WEB上构建高质量的用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。
+
 
 
 ## 示例

@@ -3,7 +3,7 @@
 ## 什么是FlutterBook？
 这里是Flutter所有Widget的中英文介绍以及使用教程，通过Flutter WEB实现Flutter的动态交互可视化，并提供了源码供参考。
 让它成为初学者入门的教程，让它成为开发者参考手册，增加开发者的用户体验，提升开发效率。
-线上地址：[http://ugd.oa.com/flutter-doc/_book/](http://ugd.oa.com/flutter-doc/_book/)
+线上地址：[https://chunpengliu.github.io/flutterbook/SUMMARY](https://chunpengliu.github.io/flutterbook/SUMMARY)
 
 ## 什么是Flutter？
 Flutter是谷歌的移动UI框架，可以快速在iOS和Android以及WEB上构建高质量的用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。

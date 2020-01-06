@@ -85,5 +85,5 @@ class _HomeState extends State<MyHomePage> {
 ### 其他
 由于Flutter组件数量很多且一直处于变动中，作者难免会有错误或疏漏，请联系刘春鹏（chunpengliu）更改，非常感谢。欢迎引用或者转载，无需申明，给个star即可。
 
-源码地址：[https://git.code.oa.com/chunpengliu/flutterbook](https://git.code.oa.com/chunpengliu/flutterbook)
+源码地址：[https://github.com/chunpengliu/flutterbook](https://github.com/chunpengliu/flutterbook)
 ![logo](./logo.png)
